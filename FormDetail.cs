@@ -25,6 +25,7 @@ namespace Assignment3
         }
         private void button1_Click(object sender, EventArgs e)
         {
+            string s = "";
             this.Close();
         }
 
